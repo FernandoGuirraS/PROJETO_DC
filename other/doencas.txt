@@ -1,0 +1,26 @@
+Não Há
+Cardiovasculares
+Respiratórias
+Endócrinas
+Gastrointestinais
+Neurológicas
+Reumatológicas
+Dermatológicas
+Infecciosas
+Psiquiátricas
+Genéticas
+Renais
+Hepáticas
+Autoimunes
+Hematológicas
+Oftalmológicas
+Otorrinolaringológicas
+Musculoesqueléticas
+Oncológicas
+Urológicas
+Metabólicas
+Imunológicas
+Congênitas
+Sexualmente Transmissíveis
+Degenerativas
+Outras

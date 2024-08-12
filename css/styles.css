@@ -1,0 +1,96 @@
+section[data-testid='stSidebar'] {
+    background-color: #111;
+    flex-shrink: unset !important;
+}
+
+@media(hover:hover) and (min-width: 37.5rem) and (max-width: 48.06rem){ /* 600px - 769px */
+    header[data-testid="stHeader"] {
+        display:none;
+    }
+
+    section[data-testid='stSidebar'] {
+        height: 100%;
+        min-width: 5.9375rem !important; /* 95px */
+        width: 5.9375rem !important; /* 95px */
+        margin-left: 19.0625rem; /* 305px */
+        position: relative;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s ease;
+        padding-top: 3.75rem; /* 60px */
+        white-space: nowrap;
+    }
+
+    section[data-testid='stSidebar']:hover {
+        min-width: 18.75rem !important; /* 300px */
+    }
+
+    button[kind="header"] {
+        display: none;
+    }
+
+    div[data-testid="collapsedControl"] {
+        display: none;
+    }
+}
+
+@media(hover: hover) and (min-width: 48.06rem){ /* 769px */
+    header[data-testid="stHeader"] {
+        display:none;
+    }
+
+    section[data-testid='stSidebar'] {
+        height: 100%;
+        min-width: 4.6875rem !important; /* 75px */
+        width: 4.6875rem !important; /* 75px */
+        transform: translateX(0px);
+        position: relative;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #111;
+        overflow-x: hidden;
+        transition: 0.5s ease;
+        padding-top: 3.75rem; /* 60px */
+        white-space: nowrap;
+    }
+
+    section[data-testid='stSidebar']:hover {
+        min-width: 18.75rem !important; /* 300px */
+    }
+
+    button[kind="header"] {
+        display: none;
+    }
+
+    div[data-testid="collapsedControl"] {
+        display: none;
+    }
+}
+
+.st-emotion-cache-16txtl3{
+    padding: 10rem 0.85rem;
+    margin: 0.05rem;
+}
+
+.st-emotion-cache-z5fcl4{
+    padding-left: .15rem;
+    padding-right: .15rem;
+    padding: 1.75rem 1.75rem 1.5rem;
+}
+
+.reportview-container.main.block-container{
+    padding-top: 0rem;
+}
+
+.st-emotion-cache-2vxabl {
+    gap: 0rem;   
+}
+
+div.st-emotion-cache-ocqkz7.e1f1d6gn5 {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
